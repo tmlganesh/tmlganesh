@@ -13,8 +13,6 @@
 
 🤔 I'm looking for help with scaling MVPs and getting user feedback
 
-💬 Ask me about startup ideas, Lost & Found apps, Java basics, and DSA concepts
-
 📫 How to reach me: tmlganesh24@gmail.com
   
 ## 🎓 Education
