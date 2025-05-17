@@ -22,7 +22,7 @@
 - **B.Tech in Computer Science and Engineering**
   - *Vasireddy Venkatadri Institute of Technology, Guntur, India*
   - Expected graduation: 2026
-  - CGPA: 8.46/10 
+
 
 ## 💻 Technical Skills
 
