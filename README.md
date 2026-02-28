@@ -1,21 +1,15 @@
-# 👋 Hi, I'm T M L Ganesh
+#  Hi, I'm T M L Ganesh
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tmlganesh/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:tmlganesh24@gmail.com)
 
 ##  About Me
- I'm currently working on startup ideas and building a Lost and Found application
-
- I'm currently learning Java, Prompt Engineering, and Data Structures & Algorithms
-
- I'm looking to collaborate on early-stage startup projects and innovative app development
-
- I'm looking for help with scaling MVPs and getting user feedback
-
+ I'm currently working on startup'sk
+ 
  How to reach me: tmlganesh24@gmail.com
   
-## 🎓 Education
+##  Education
 
 - **B.Tech in Computer Science and Engineering**
   - *Vasireddy Venkatadri Institute of Technology, Guntur, India*
