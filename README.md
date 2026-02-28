@@ -28,20 +28,15 @@ Final-year Computer Science student at **VVIT**, building practical ML systems a
 
 ##  Tech I Use
 
-**Languages**  
-Python • JavaScript • SQL • C++ • Java  
+**Languages** : Python ,JavaScript ,SQL ,C++ ,Java  
 
-**ML / AI**  
-PyTorch • TensorFlow • Hugging Face • scikit-learn  
+**ML / AI** : PyTorch ,TensorFlow ,Hugging Face ,scikit-learn  
 
-**Backend**  
-FastAPI • Django REST • Flask • Node.js  
+**Backend** : FastAPI ,Django REST ,Flask ,Node.js  
 
-**Cloud & Tools**  
-GCP • AWS • Docker • Spark • Kafka  
+**Cloud & Tools** : GCP ,AWS ,Docker ,Spark ,Kafka  
 
-**Databases**  
-PostgreSQL • MongoDB • Qdrant • FAISS  
+**Databases** : PostgreSQL ,MongoDB ,Qdrant ,FAISS  
 
 ---
 
